@@ -75,4 +75,4 @@ We draw inspiration from OpenAI's Gym and the Q-learning algorithm. Feel free to
 
 ---
 
-Note: Replace `your-username` and `your-repo-name` with your GitHub username and the repository name, respectively.
+
