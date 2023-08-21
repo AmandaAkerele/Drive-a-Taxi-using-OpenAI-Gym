@@ -65,9 +65,6 @@ The notebook showcases the agent's learning journey over multiple training episo
 
 Through this project, we offer insight into the Q-learning algorithm's application to the "Taxi-v3" environment. We discuss the agent's learning behavior, how it improves its performance, and the delicate balance between exploration and exploitation in reinforcement learning.
 
-## License
-
-This project operates under the MIT License. Please refer to the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
